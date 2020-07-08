@@ -1,0 +1,8 @@
+67.40 97.67
+5.99  37.98
+
+https://i.ibb.co/d2LJR2f/pngwing-com.png
+https://i.ibb.co/fM78wJr/pngwing.png
+
+http://127.0.0.1:8080
+http-server ./src/data/images/

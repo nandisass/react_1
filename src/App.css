@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,41 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+/* .App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.leaflet-container {
+  height: 600px;
+  width: 100%;
+}
+
+.leaflet-div-icon {
+  background: transparent;
+  border: none;
+} */
+
+/* body,
+html,
+#root,
+#map {
+  font-family: sans-serif;
+  height: 93%;
+  width: 100%;
+  margin: 1%;
+  display: flex;
+  justify-content: center;
+} */
+
+.leaflet-container {
+  height: 300px;
+  width: 90%;
+}
+
+.leaflet-div-icon {
+  background: transparent;
+  border: none;
 }
